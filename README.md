@@ -1,1 +1,1 @@
-# OS_Scheduling_algorithm_with_java_gui
+# OS Scheduling Algorithm With Java Gui
